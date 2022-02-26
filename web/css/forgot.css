@@ -1,0 +1,21 @@
+.bod{
+    width: 40%;
+    height: 30%;          
+    border: 50%;
+    justify-content: center;
+    border: 3px solid teal;
+    font-family: cursive;
+    margin-top:13%;
+    margin-left: 30%;
+   
+
+
+}
+.hed{
+    background-color: teal;
+    margin: 0px;
+    color: white;   
+}
+.a{
+    background-color: white;
+}

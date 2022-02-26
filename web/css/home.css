@@ -1,0 +1,33 @@
+.navi{
+    padding: 21px;
+    background-color: teal;
+}
+a {
+    color: white;
+    margin: 7px;
+    padding: 8px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: cursive;
+}
+body{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.Icon {
+    padding: 10px;
+}
+
+
+/* <frameset cols="20%,*">
+<frame src="Ol.html"> 1st FRAME
+<frame src="marquee.html"> 2nd FRAME
+</frameset> */
+
+
+/* https://www.freetimelearning.com/html/html-frames.php
+<frameset rows="15%,*,10%">
+  <frame src="frame_a.htm">
+  <frame src="frame_b.htm">
+  <frame src="frame_c.htm">
+</frameset> */
